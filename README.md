@@ -1,1 +1,1 @@
-# linear-regression-marketing-workshop
+# Introduction to Linear Regression
